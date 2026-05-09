@@ -34,4 +34,3 @@ print('Multiplication:', int(input_value1) * int(input_value2))
 print('Division:', int(input_value1) / int(input_value2))
 
 print('-------------------------------------------------')
-
